@@ -1,0 +1,14 @@
+{
+  "name": "micro:bit editor",
+  "version": "1.0.0",
+  "description": "Base code required to get a micro:bit editor working in CodeAnywhere",
+  "main": "",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Mayor",
+  "license": "MIT"
+}
